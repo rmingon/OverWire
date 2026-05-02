@@ -5452,6 +5452,30 @@
 			)
 		)
 	)
+	(global_label "SWCLK"
+		(shape input)
+		(at 110.49 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1659a2c2-4c9c-40a0-a80d-3f908b884c4a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7042 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "ESP32_EN"
 		(shape input)
 		(at 146.05 157.48 0)
@@ -5489,30 +5513,6 @@
 		(uuid "183ae21e-7952-40eb-ae92-73557d9cde39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 122.4861 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SWDIO"
-		(shape input)
-		(at 110.49 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1cfd974b-621a-4d7f-8304-4d2408fcf3b3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.3414 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5572,6 +5572,30 @@
 			)
 		)
 	)
+	(global_label "SWDIO"
+		(shape input)
+		(at 110.49 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "74afca39-1e0c-47af-811c-8d2121d72963")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.3414 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "TX-PROG"
 		(shape input)
 		(at 97.79 163.83 0)
@@ -5609,30 +5633,6 @@
 		(uuid "9121527b-8e51-4275-8a86-160d44ff00cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.0713 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SWCLK"
-		(shape input)
-		(at 110.49 109.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "97babdbb-c9a9-4661-8d68-575d67b2fbab")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.7042 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
