@@ -50,4 +50,9 @@ Provides access to `5V`, `GND`, and the ESP32 UART (`TX-PROG`, `RX-PROG`) for ex
 
 ---
 
+## License
+
+This hardware design is released under the **Creative Commons Attribution-NonCommercial 4.0 International** (CC BY-NC 4.0) license. 
+You are free to view, use, and modify this design for **personal, non-commercial** purposes only. You may **not** use this material for commercial purposes (such as manufacturing and selling the boards) without explicit written permission from the original author.
+
 *Designed with KiCad.*
